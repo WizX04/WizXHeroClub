@@ -686,7 +686,7 @@ h1 {
     animation: bounce 0.5s; 
 }
     
-@media screen and (min-width: 350px) and (max-width: 699px) {
+@media screen and (min-width: 400px) and (max-width: 699px) {
     body, p, h1, h2, h3 {
         font-size: 14px; 
     }
