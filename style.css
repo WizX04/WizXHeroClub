@@ -540,7 +540,7 @@ p::selection{
 .student-image {
     width: 100%; 
     height: 300px;
-    object-fit: fill;
+    object-fit: contain;
     border-radius: 10px; 
     transition: transform 0.3s; 
 }
