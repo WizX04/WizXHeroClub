@@ -873,10 +873,10 @@ h1 {
     }
 }
 
-    footer p {
-        font-size: 14px;
-        overflow-x: hidden;
-    }
+footer p {
+    font-size: 14px;
+    overflow-x: hidden;
+}
 
 @media screen and (min-width:700px) and (max-width: 960px) {
     .image-bg {
